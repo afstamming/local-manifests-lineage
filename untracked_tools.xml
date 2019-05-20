@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remove-project name="toolchain/benchmark" />
+<!-- <remove-project name="toolchain/binutils" /> -->
+<remove-project name="toolchain/pgo-profiles" />
+<!-- <remove-project name="platform/tools/acloud" /> -->
+<remove-project name="platform/tools/appbundle" />
+<remove-project name="platform/tools/adt/idea" />
+<!-- <remove-project name="platform/tools/apksig" /> -->
+<remove-project name="platform/tools/apkzlib" />
+<!-- <remove-project name="platform/tools/base" /> -->
+<!-- <remove-project name="platform/tools/build" /> -->
+<!-- <remove-project name="platform/tools/dexter" /> -->
+<remove-project name="platform/tools/external/fat32lib" />
+<!-- <remove-project name="platform/tools/external/gradle" /> -->
+<remove-project name="platform/tools/idea" />
+<remove-project name="platform/tools/loganalysis" />
+<!-- <remove-project name="platform/tools/metalava" /> -->
+<remove-project name="platform/tools/motodev" />
+<!-- <remove-project name="platform/tools/repohooks" /> -->
+<remove-project name="platform/tools/studio/cloud" />
+<remove-project name="platform/tools/swt" />
+<!-- <remove-project name="platform/tools/test/connectivity" /> -->
+<remove-project name="platform/tools/tradefederation" />
+<remove-project name="platform/tools/tradefederation/contrib" />
+</manifest>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- <remove-project name="platform/system/bt" /> -->
+<!-- <remove-project name="platform/system/ca-certificates" /> -->
+<remove-project name="platform/system/chre" />
+<!-- <remove-project name="platform/system/connectivity/wificond" /> -->
+<!-- <remove-project name="platform/system/connectivity/wifilogd" /> -->
+<!-- <remove-project name="platform/system/core" /> -->
+<!-- <remove-project name="platform/system/extras" /> -->
+<!-- <remove-project name="platform/system/gatekeeper" /> -->
+<!-- <remove-project name="platform/system/hardware/interfaces" /> -->
+<!-- <remove-project name="platform/system/hwservicemanager" /> -->
+<remove-project name="platform/system/iot/attestation" />
+<!-- <remove-project name="platform/system/keymaster" /> -->
+<!-- <remove-project name="platform/system/libfmq" /> -->
+<!-- <remove-project name="platform/system/libhidl" /> -->
+<!-- <remove-project name="platform/system/libhwbinder" /> -->
+<!-- <remove-project name="platform/system/libufdt" /> -->
+<!-- <remove-project name="platform/system/libvintf" /> -->
+<!-- <remove-project name="platform/system/media" /> -->
+<!-- <remove-project name="platform/system/netd" /> -->
+<!-- <remove-project name="platform/system/nfc" /> -->
+<!-- <remove-project name="platform/system/nvram" /> -->
+<!-- <remove-project name="platform/system/security" /> -->
+<!-- <remove-project name="platform/system/sepolicy" /> -->
+<!-- <remove-project name="platform/system/timezone" /> -->
+<!-- <remove-project name="platform/system/tools/aidl" /> -->
+<!-- <remove-project name="platform/system/tools/hidl" /> -->
+<!-- <remove-project name="platform/system/tpm" /> -->
+<!-- <remove-project name="platform/system/update_engine" /> -->
+<!-- <remove-project name="platform/system/vold" /> -->
+</manifest>

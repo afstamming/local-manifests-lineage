@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- <remove-project name="platform/build" /> -->
+<!-- <remove-project name="platform/build/blueprint" /> -->
+<!-- <remove-project name="platform/build/kati" /> -->
+<!-- <remove-project name="platform/build/soong" /> -->
+<!-- <remove-project name="platform/art" /> -->
+<!-- <remove-project name="platform/bionic" /> -->
+<!-- <remove-project name="platform/bootable/recovery" /> -->
+<remove-project name="platform/compatibility/cdd" />
+<!-- <remove-project name="platform/cts" /> -->
+<!-- <remove-project name="platform/dalvik" /> -->
+<remove-project name="platform/developers/build" />
+<remove-project name="platform/developers/demos" />
+<remove-project name="platform/developers/samples/android" />
+<!-- <remove-project name="platform/development" /> -->
+
+<!-- <remove-project name="platform/libcore" /> -->
+<!-- <remove-project name="platform/libnativehelper" /> -->
+
+<!-- <remove-project name="platform/pdk" /> -->
+<!-- <remove-project name="platform/platform_testing" /> -->
+
+<!-- <remove-project name="platform/sdk" /> -->
+</manifest>

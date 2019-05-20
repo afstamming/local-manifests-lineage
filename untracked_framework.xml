@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- <remove-project name="platform/frameworks/av" /> -->
+<!-- <remove-project name="platform/frameworks/base" /> -->
+<!-- <remove-project name="platform/frameworks/compile/libbcc" /> -->
+<!-- <remove-project name="platform/frameworks/compile/mclinker" /> -->
+<!-- <remove-project name="platform/frameworks/compile/slang" /> -->
+<!-- <remove-project name="platform/frameworks/data-binding" /> -->
+<!-- <remove-project name="platform/frameworks/ex" /> -->
+<!-- <remove-project name="platform/frameworks/hardware/interfaces" /> -->
+<!-- <remove-project name="platform/frameworks/layoutlib" /> -->
+<!-- <remove-project name="platform/frameworks/minikin" /> -->
+<!-- <remove-project name="platform/frameworks/ml" /> -->
+<!-- <remove-project name="platform/frameworks/multidex" /> -->
+<!-- <remove-project name="platform/frameworks/native" /> -->
+<!-- <remove-project name="platform/frameworks/opt/bitmap" /> -->
+<!-- <remove-project name="platform/frameworks/opt/calendar" /> -->
+<!-- <remove-project name="platform/frameworks/opt/car/services" /> -->
+<remove-project name="platform/frameworks/opt/car/setupwizard" />
+<!-- <remove-project name="platform/frameworks/opt/chips" /> -->
+<!-- <remove-project name="platform/frameworks/opt/colorpicker" /> -->
+<!-- <remove-project name="platform/frameworks/opt/datetimepicker" /> -->
+<!-- <remove-project name="platform/frameworks/opt/inputconnectioncommon" /> -->
+<!-- <remove-project name="platform/frameworks/opt/inputmethodcommon" /> -->
+<!-- <remove-project name="platform/frameworks/opt/net/ethernet" /> -->
+<!-- <remove-project name="platform/frameworks/opt/net/ims" /> -->
+<!-- <remove-project name="platform/frameworks/opt/net/lowpan" /> -->
+<!-- <remove-project name="platform/frameworks/opt/net/voip" /> -->
+<!-- <remove-project name="platform/frameworks/opt/net/wifi" /> -->
+<!-- <remove-project name="platform/frameworks/opt/photoviewer" /> -->
+<!-- <remove-project name="platform/frameworks/opt/setupwizard" /> -->
+<!-- <remove-project name="platform/frameworks/opt/telephony" /> -->
+<!-- <remove-project name="platform/frameworks/opt/timezonepicker" /> -->
+<!-- <remove-project name="platform/frameworks/opt/vcard" /> -->
+<!-- <remove-project name="platform/frameworks/rs" /> -->
+<!-- <remove-project name="platform/frameworks/support" /> -->
+<!-- <remove-project name="platform/frameworks/wilhelm" /> -->
+</manifest>
