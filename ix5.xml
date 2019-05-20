@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="ix5" fetch="https://git.ix5.org/felix/" />
+<remote name="omnirom-gh" fetch="https://github.com/omnirom" revision="android-9.0" />
+<project path="vendor/oss/ix5_repo_update" name="ix5_repo_update" groups="device" remote="ix5" revision="master">
+    <linkfile src="ix5_repo_update.sh" dest="ix5_repo_update.sh" />
+    <linkfile src="treble_repo_update.sh" dest="treble_repo_update.sh" />
+</project>
+<project path="device/sony/odm" name="device-sony-odm" groups="device" remote="ix5" revision="master" />
+<project path="vendor/ix5" name="vendor-sony-ix5" remote="ix5" revision="master" />
+<project path="external/libncurses" name="android_external_libncurses" remote="omnirom-gh" revision="android-9.0" />
+<project path="external/vim" name="android_external_vim" remote="omnirom-gh" revision="android-9.0" />
+<project path="external/zip" name="android_external_zip"  remote="omnirom-gh" revision="android-9.0" />
+</manifest>
