@@ -11,7 +11,7 @@
 <!-- <remove-project name="platform/tools/base" /> -->
 <!-- <remove-project name="platform/tools/build" /> -->
 <!-- <remove-project name="platform/tools/dexter" /> -->
-<remove-project name="platform/tools/external/fat32lib" />
+<!-- <remove-project name="platform/tools/external/fat32lib" /> -->
 <!-- <remove-project name="platform/tools/external/gradle" /> -->
 <remove-project name="platform/tools/idea" />
 <remove-project name="platform/tools/loganalysis" />
