@@ -94,7 +94,7 @@
 <!-- <remove-project name="platform/external/guice" /> -->
 <!-- <remove-project name="platform/external/hamcrest" /> -->
 <!-- <remove-project name="platform/external/harfbuzz_ng" /> -->
-<!-- <remove-project name="platform/external/honggfuzz" /> -->
+<remove-project name="platform/external/honggfuzz" />
 <!-- <remove-project name="platform/external/hyphenation-patterns" /> -->
 <!-- <remove-project name="platform/external/icu" /> -->
 <!-- <remove-project name="platform/external/ims" /> -->
