@@ -11,8 +11,8 @@
 <!-- <remove-project name="platform/cts" /> -->
 <!-- <remove-project name="platform/dalvik" /> -->
 <remove-project name="platform/developers/build" />
-<remove-project name="platform/developers/demos" />
-<remove-project name="platform/developers/samples/android" />
+<!-- <remove-project name="platform/developers/demos" /> -->
+<!-- <remove-project name="platform/developers/samples/android" /> -->
 <!-- <remove-project name="platform/development" /> -->
 
 <!-- <remove-project name="platform/libcore" /> -->

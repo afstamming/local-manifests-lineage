@@ -24,7 +24,7 @@
 <project path="device/sony/mermaid" name="device-sony-mermaid" groups="device" remote="sony" revision="p-mr1" />
 
 <!--msm8996-->
-<project path="device/sony/tone" name="device-sony-tone" groups="device" remote="sony" revision="p-mr1" />
+<project path="device/sony/tone-common" name="device-sony-tone" groups="device" remote="sony" revision="p-mr1" />
 <project path="device/sony/dora" name="device-sony-dora" groups="device" remote="sony" revision="p-mr1" />
 <project path="device/sony/kagura" name="device-sony-kagura" groups="device" remote="sony" revision="p-mr1" />
 <project path="device/sony/keyaki" name="device-sony-keyaki" groups="device" remote="sony" revision="p-mr1" />
