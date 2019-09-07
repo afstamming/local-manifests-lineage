@@ -9,13 +9,21 @@
 <remove-project name="LineageOS/android_hardware_qcom_sdm845_data_ipacfg-mgr" />
 <remove-project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
 <remove-project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
+<!-- hardware/qcom/audio from AOSP -->
+<remove-project name="platform/hardware/qcom/audio" />
+<!-- 1. hardware/qcom/audio-caf/{msm**,sdm845,sm8150,...}
+        via lineage-16.0-caf-8XXX branches -->
+<!-- 2. hardware/qcom/audio/default -->
+<remove-project name="LineageOS/android_hardware_qcom_audio" />
 
-<project path="hardware/qcom/gps" name="platform/hardware/qcom/sdm845/gps" remote="aosp" groups="qcom_sdm845" revision="master" />
+<project path="hardware/qcom/gps" name="android_hardware_qcom_sdm845_gps" remote="afstamming" groups="qcom_sdm845" revision="af-lineage-16.0" />
 
 <project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.7.3.r1" />
 <project path="hardware/qcom/media/sdm845" name="platform/hardware/qcom/sdm845/media" groups="qcom_sdm845" remote="aosp" revision="master" />
 
-<project path="hardware/qcom/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" revision="master" />
+<project path="hardware/qcom/data/ipacfg-mgr/sdm845" name="android_hardware_qcom_sdm845_data_ipacfg-mgr" groups="qcom_sdm845" remote="afstamming" revision="af-lineage-16.0" />
+
+<project path="hardware/qcom/audio" name="android_hardware_qcom_audio" groups="qcom_sdm845" remote="afstamming" revision="af-lineage-16.0" />
 
 <project path="vendor/qcom/opensource/camera" name="camera" groups="device" remote="sony" revision="aosp/LA.UM.6.4.r1" />
 <project path="vendor/qcom/opensource/bluetooth" name="vendor-qcom-opensource-bluetooth" groups="device" remote="sony" revision="master" />

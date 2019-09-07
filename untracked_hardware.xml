@@ -3,10 +3,11 @@
 <remove-project name="platform/hardware/akm" />
 <!-- <remove-project name="platform/hardware/broadcom/libbt" /> -->
 <!-- <remove-project name="platform/hardware/broadcom/wlan" /> -->
-<!-- <remove-project name="platform/hardware/google/apf" /> -->
+<remove-project name="platform/hardware/google/apf" />
+<remove-project name="platform/hardware/google/av" />
 <remove-project name="platform/hardware/google/easel" />
 <remove-project name="platform/hardware/google/interfaces" />
-<remove-project name="platform/hardware/google/av" />
+<remove-project name="platform/hardware/google/pixel" />
 <remove-project name="LineageOS/android_hardware_intel_bootstub" />
 <remove-project name="platform/hardware/intel/common/bd_prov" />
 <remove-project name="LineageOS/android_hardware_intel_common_libmix" />
@@ -26,7 +27,9 @@
 <remove-project name="platform/hardware/marvell/bt" />
 <!-- <remove-project name="platform/hardware/nxp/nfc" /> -->
 <!-- <remove-project name="platform/hardware/nxp/secure_element" /> -->
+<!-- Disabled in qcom.xml -->
 <!-- <remove-project name="platform/hardware/qcom/audio" /> -->
+<!-- <remove-project name="LineageOS/android_hardware_qcom_audio" /> -->
 <!-- <remove-project name="platform/hardware/qcom/bootctrl" /> -->
 <!-- <remove-project name="platform/hardware/qcom/bt" /> -->
 <remove-project name="LineageOS/android_hardware_qcom_camera" />
