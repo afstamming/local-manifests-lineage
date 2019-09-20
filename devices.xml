@@ -20,7 +20,7 @@
 <project path="device/sony/voyager" name="device-sony-voyager" groups="device" remote="sony" revision="master" />
 
 <!--sdm630-->
-<project path="device/sony/ganges" name="android_device_sony_ganges" groups="device" remote="afstamming" revision="af-lineage-16.0" />
+<project path="device/sony/ganges-common" name="android_device_sony_ganges-common" groups="device" remote="afstamming" revision="af-lineage-16.0" />
 <project path="device/sony/kirin" name="android_device_sony_kirin" groups="device" remote="afstamming" revision="af-lineage-16.0" />
 <project path="device/sony/mermaid" name="android_device_sony_mermaid" groups="device" remote="afstamming" revision="af-lineage-16.0" />
 
