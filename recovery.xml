@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="afstamming" fetch="https://github.com/afstamming/" />
+<remove-project name="LineageOS/android_bootable_recovery" /> -->
+<project path="bootable/recovery" name="android_bootable_recovery" remote="afstamming" revision="af-lineage-16.0" />
+</manifest>
