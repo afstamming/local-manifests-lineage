@@ -16,7 +16,7 @@
 <!-- 2. hardware/qcom/audio/default -->
 <remove-project name="LineageOS/android_hardware_qcom_audio" />
 
-<project path="hardware/qcom/gps" name="android_hardware_qcom_sdm845_gps" remote="afstamming" groups="qcom_sdm845" revision="af-lineage-16.0" />
+<project path="hardware/qcom/gps" name="android_hardware_qcom_sdm845_gps" remote="aosp" groups="qcom_sdm845" revision="master" />
 
 <project path="hardware/qcom/display/sde" name="hardware-qcom-display" groups="device" remote="sony" revision="aosp/LA.UM.7.3.r1" />
 <project path="hardware/qcom/media/sdm845" name="platform/hardware/qcom/sdm845/media" groups="qcom_sdm845" remote="aosp" revision="master" />
